@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Official PaceQ support.">
+  <title>PaceQ Support</title>
+  <style>
+    :root { color-scheme: dark; --ink:#f7f9ff; --muted:#aab5ca; --line:rgba(190,211,255,.17); --blue:#7ca2ff; --mint:#4de0bf; --canvas:#070c18; --panel:rgba(15,25,48,.78); }
+    * { box-sizing:border-box; }
+    body { margin:0; min-width:320px; color:var(--ink); font:16px/1.55 ui-rounded, "SF Pro Rounded", "Avenir Next", system-ui, sans-serif; background:radial-gradient(800px 500px at 7% -5%, #234370 0%, transparent 62%),radial-gradient(680px 440px at 100% 105%, #164d50 0%, transparent 60%),var(--canvas); }
+    main { width:min(100% - 40px, 820px); margin:0 auto; padding:42px 0 56px; }
+    .brand { display:flex; align-items:center; gap:12px; color:#dce7ff; font-size:15px; font-weight:800; letter-spacing:.16em; text-transform:uppercase; }
+    .mark { display:grid; place-items:center; width:36px; height:36px; border:1px solid rgba(124,162,255,.6); border-radius:12px; background:linear-gradient(140deg,#8babff,#5c7ee5); color:#081126; font-size:22px; font-weight:900; box-shadow:0 12px 30px rgba(92,126,229,.25); }
+    .hero { padding:78px 0 52px; }
+    .eyebrow { margin:0 0 14px; color:var(--mint); font-size:13px; font-weight:850; letter-spacing:.18em; text-transform:uppercase; }
+    h1 { max-width:670px; margin:0; font-size:clamp(42px,8vw,76px); line-height:1.02; letter-spacing:-.065em; }
+    .intro { max-width:610px; margin:24px 0 0; color:var(--muted); font-size:clamp(18px,2.5vw,21px); }
+    .grid { display:grid; grid-template-columns:repeat(2,1fr); gap:16px; }
+    .card { min-height:202px; padding:26px; border:1px solid var(--line); border-radius:26px; background:linear-gradient(135deg,rgba(28,44,79,.84),var(--panel)); box-shadow:inset 0 1px rgba(255,255,255,.05),0 22px 55px rgba(0,0,0,.18); }
+    .card.wide { grid-column:span 2; min-height:auto; }
+    .icon { color:var(--blue); font-size:24px; }
+    h2 { margin:18px 0 8px; font-size:22px; line-height:1.15; letter-spacing:-.03em; }
+    p { margin:0; color:var(--muted); }
+    a { color:var(--ink); text-decoration:none; }
+    .button { display:inline-flex; align-items:center; gap:10px; margin-top:20px; padding:12px 16px; border-radius:14px; background:#eaf0ff; color:#0c1528; font-weight:800; }
+    .button:hover { background:white; }
+    .faq { margin-top:16px; padding:0 26px; border:1px solid var(--line); border-radius:26px; background:rgba(12,21,40,.58); }
+    details { padding:21px 0; border-bottom:1px solid var(--line); }
+    details:last-child { border:0; }
+    summary { cursor:pointer; font-weight:760; }
+    details p { padding-top:12px; }
+    footer { display:flex; justify-content:space-between; gap:18px; margin-top:42px; color:#79859b; font-size:14px; }
+    footer a { color:#b9c7df; }
+    @media (max-width:620px) { main { width:min(100% - 28px,820px); padding-top:28px; } .hero { padding:58px 0 38px; } .grid { grid-template-columns:1fr; } .card.wide { grid-column:auto; } footer { display:block; } footer p + p { margin-top:10px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header class="brand"><span class="mark">P</span> PaceQ</header>
+    <section class="hero">
+      <p class="eyebrow">Support</p>
+      <h1>A clearer workday starts here.</h1>
+      <p class="intro">Need a hand with PaceQ? Find the common answers below, or contact us directly. We are here to help you keep work time simple and visible.</p>
+    </section>
+    <section class="grid" aria-label="Support options">
+      <article class="card">
+        <div class="icon">&#10022;</div>
+        <h2>Getting started</h2>
+        <p>Set your focus target, planned break, and work limit from the Plan tab. PaceQ calculates your expected finish as soon as you start.</p>
+      </article>
+      <article class="card">
+        <div class="icon">&#8627;</div>
+        <h2>Purchases</h2>
+        <p>Lifetime access is a one-time purchase. If you changed devices, use Restore purchases on the PaceQ Lifetime screen.</p>
+      </article>
+      <article class="card wide">
+        <div class="icon">&#9993;</div>
+        <h2>Contact PaceQ Support</h2>
+        <p>For product questions, purchase support, or privacy requests, email us with your iPhone model and iOS version where possible.</p>
+        <a class="button" href="mailto:ali.ozkul@icloud.com?subject=PaceQ%20Support">Email support <span aria-hidden="true">&#8599;</span></a>
+      </article>
+    </section>
+    <section class="faq" aria-label="Frequently asked questions">
+      <details>
+        <summary>How does the seven-day trial work?</summary>
+        <p>Every PaceQ feature is available for seven days after onboarding. After the trial, one lifetime purchase unlocks the app permanently. There is no subscription.</p>
+      </details>
+      <details>
+        <summary>Can I correct a missed start time?</summary>
+        <p>Yes. While a session is active, choose Correct start and enter the time you actually began. PaceQ replaces the timing instead of adding another session.</p>
+      </details>
+      <details>
+        <summary>Where is my data stored?</summary>
+        <p>Your sessions, plans, and reminders stay on your device. PaceQ does not require an account or send this information to a developer-controlled server.</p>
+      </details>
+    </section>
+    <footer>
+      <p>&copy; 2026 Ali Orkun Ozkul. PaceQ.</p>
+      <p><a href="privacy.html">Privacy Policy</a></p>
+    </footer>
+  </main>
+</body>
+</html>
