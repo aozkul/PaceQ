@@ -30,4 +30,4 @@ If this policy changes, the updated version will be published at the privacy pol
 
 ## Contact
 
-For support or privacy questions, contact: support@YOUR-DOMAIN.com
+For support or privacy questions, contact: ali.ozkul@icloud.com
