@@ -1,0 +1,210 @@
+{
+  "name": "PaceQ",
+  "color": "#80c5ff",
+  "secondary": "#bca4ff",
+  "icon": "app-icon.png",
+  "screen": "screen-en.png",
+  "copy": {
+    "tr": {
+      "tag": "DAHA NET BİR İŞ GÜNÜ",
+      "title": "Zamanını gör.\nRitmini bul.",
+      "intro": "Odak süren, molaların ve planlanan bitişin tek bir sakin görünümde. PaceQ, iş gününün nereye gittiğini anlamanı kolaylaştırır.",
+      "features": [
+        [
+          "Bitişin gözünün önünde",
+          "Odak hedefini, planlı molanı ve günlük çalışma sınırını birlikte gör."
+        ],
+        [
+          "Haftanın bütününü gör",
+          "Odak ve ofis sürelerini ayrı takip et. İzin günlerini planına dahil et."
+        ],
+        [
+          "Gerçek hayata uyum sağlar",
+          "Sayacı geç başlattığında başlangıç saatini düzelt; günün kaydı doğru kalsın."
+        ]
+      ],
+      "offer": "7 gün tüm özellikler. Sonrasında tek seferlik ömür boyu erişim; abonelik yok.",
+      "steps": [
+        "Günlük odak hedefini ve molanı planla.",
+        "Deep work, Office veya Flexible moduyla başla.",
+        "Beklenen bitişini ve haftalık ilerlemeni takip et."
+      ]
+    },
+    "en": {
+      "tag": "A CLEARER WORKDAY",
+      "title": "See your time.\nFind your rhythm.",
+      "intro": "Focus, breaks and your expected finish, together in one calm view. PaceQ makes your workday easier to understand.",
+      "features": [
+        [
+          "Know your finish",
+          "See your focus target, planned break and daily work limit together."
+        ],
+        [
+          "See the whole week",
+          "Track focus and office time separately. Make room for leave days in your plan."
+        ],
+        [
+          "Made for real days",
+          "Forgot to start the timer? Correct the start time and keep an accurate record."
+        ]
+      ],
+      "offer": "Every feature for 7 days. Then one lifetime purchase. No subscription.",
+      "steps": [
+        "Plan your daily focus target and break.",
+        "Start in Deep work, Office or Flexible mode.",
+        "Follow your expected finish and weekly progress."
+      ]
+    },
+    "de": {
+      "tag": "EIN KLARERER ARBEITSTAG",
+      "title": "Zeit im Blick.\nDein Rhythmus.",
+      "intro": "Fokuszeit, Pausen und dein geplantes Arbeitsende in einer ruhigen Ansicht. Mit PaceQ wird dein Arbeitstag übersichtlicher.",
+      "features": [
+        [
+          "Das Ende im Blick",
+          "Fokusziel, geplante Pause und tägliche Arbeitsgrenze auf einen Blick."
+        ],
+        [
+          "Die ganze Woche sehen",
+          "Fokus- und Bürozeit getrennt verfolgen. Freie Tage im Plan berücksichtigen."
+        ],
+        [
+          "Für echte Arbeitstage",
+          "Timer zu spät gestartet? Korrigiere die Startzeit und halte den Eintrag aktuell."
+        ]
+      ],
+      "offer": "7 Tage alle Funktionen. Danach einmalig lebenslangen Zugang freischalten. Kein Abo.",
+      "steps": [
+        "Fokusziel und Pause für den Tag planen.",
+        "Deep work, Office oder Flexible wählen und starten.",
+        "Geplantes Arbeitsende und Wochenfortschritt verfolgen."
+      ]
+    }
+  },
+  "privacy": {
+    "en": [
+      [
+        "Your app data",
+        "Work sessions, plans, goals, reminders and preferences are stored on your device. PaceQ has no account system and does not send these records to a developer-controlled server."
+      ],
+      [
+        "Apple purchases",
+        "Apple StoreKit processes and restores lifetime access. Apple handles payment information under its own privacy policy. We do not receive or store payment card details."
+      ],
+      [
+        "Local notifications",
+        "With your permission, reminders are scheduled on your device. Their content is not sent to a developer-controlled server."
+      ],
+      [
+        "Analytics and advertising",
+        "PaceQ does not use advertising SDKs, third-party analytics or cross-app tracking."
+      ],
+      [
+        "Your choices",
+        "Control notifications in iOS Settings. Deleting the app removes its local data. Lifetime access can be restored using the same Apple Account."
+      ]
+    ],
+    "tr": [
+      [
+        "Uygulama verilerin",
+        "Çalışma oturumları, planlar, hedefler, hatırlatıcılar ve tercihler cihazında saklanır. PaceQ hesap sistemi kullanmaz; bu kayıtları geliştiricinin sunucusuna göndermez."
+      ],
+      [
+        "Apple satın alımları",
+        "Ömür boyu erişim satın alma ve geri yükleme Apple StoreKit üzerinden yürür. Ödeme bilgilerini Apple kendi gizlilik politikasına göre işler. Kart bilgilerini almayız veya saklamayız."
+      ],
+      [
+        "Yerel bildirimler",
+        "İzin verirsen hatırlatıcılar cihazında planlanır. Bildirim içeriği geliştiricinin sunucusuna gönderilmez."
+      ],
+      [
+        "Analitik ve reklam",
+        "PaceQ reklam SDK’sı, üçüncü taraf analitik veya uygulamalar arası izleme kullanmaz."
+      ],
+      [
+        "Seçimlerin",
+        "Bildirimleri iOS Ayarları’ndan yönetebilirsin. Uygulamayı silmek yerel verilerini kaldırır. Ömür boyu erişim aynı Apple hesabıyla geri yüklenebilir."
+      ]
+    ],
+    "de": [
+      [
+        "Deine App-Daten",
+        "Arbeitssitzungen, Pläne, Ziele, Erinnerungen und Einstellungen werden auf deinem Gerät gespeichert. PaceQ hat kein Kontosystem und überträgt diese Einträge nicht an einen vom Entwickler betriebenen Server."
+      ],
+      [
+        "Käufe über Apple",
+        "Apple StoreKit verarbeitet und stellt den lebenslangen Zugang wieder her. Apple verarbeitet Zahlungsdaten gemäß der eigenen Datenschutzerklärung. Wir erhalten und speichern keine Karteninformationen."
+      ],
+      [
+        "Lokale Mitteilungen",
+        "Mit deiner Erlaubnis werden Erinnerungen auf dem Gerät geplant. Ihr Inhalt wird nicht an einen Entwickler-Server gesendet."
+      ],
+      [
+        "Analyse und Werbung",
+        "PaceQ verwendet keine Werbe-SDKs, Analyseanbieter oder appübergreifendes Tracking."
+      ],
+      [
+        "Deine Möglichkeiten",
+        "Mitteilungen verwaltest du in den iOS-Einstellungen. Durch Löschen der App werden ihre lokalen Daten entfernt. Den lebenslangen Zugang kannst du mit demselben Apple Account wiederherstellen."
+      ]
+    ]
+  },
+  "repo": "PaceQ",
+  "aliases": [
+    [
+      "index-en.html",
+      "en",
+      "home"
+    ],
+    [
+      "index-de.html",
+      "de",
+      "home"
+    ],
+    [
+      "support.html",
+      "tr",
+      "support"
+    ],
+    [
+      "privacy.html",
+      "tr",
+      "privacy"
+    ],
+    [
+      "support-en.html",
+      "en",
+      "support"
+    ],
+    [
+      "privacy-en.html",
+      "en",
+      "privacy"
+    ],
+    [
+      "support-de.html",
+      "de",
+      "support"
+    ],
+    [
+      "privacy-de.html",
+      "de",
+      "privacy"
+    ],
+    [
+      "PRIVACY_POLICY.html",
+      "en",
+      "privacy"
+    ],
+    [
+      "docs/index.html",
+      "en",
+      "home"
+    ],
+    [
+      "docs/privacy.html",
+      "en",
+      "privacy"
+    ]
+  ]
+}
